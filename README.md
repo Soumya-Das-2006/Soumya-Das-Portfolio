@@ -24,7 +24,7 @@ Welcome to my personal portfolio! I'm **Soumya Das**, a passionate web developer
 
 ## 🌐 Live Demo
 Check out my live portfolio here:  
-[https://soumyadas2006.github.io/Soumya-Das-Portfolio/](https://soumyadas2006.github.io/Soumya-Das-Portfolio/)
+[(https://soumyadas2006.github.io/Soumya-Das-Portfolio/)](https://soumya-das-2006.github.io/Soumya-Das-Portfolio/)
 
 ## 📬 Contact Me
 Reach out via email: [your-email@example.com](mailto:your-email@example.com)  
@@ -42,4 +42,4 @@ cd Soumya-Das-Portfolio
 ```
 
 ## 🌐 Live Demo
-Check out my live portfolio here: [Soumya Das Portfolio](https://soumyadas2006.github.io/Soumya-Das-Portfolio/)
+Check out my live portfolio here: [Soumya Das Portfolio](https://soumya-das-2006.github.io/Soumya-Das-Portfolio/)
