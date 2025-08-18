@@ -14,6 +14,7 @@ Welcome to my personal portfolio! I'm **Soumya Das**, a passionate web developer
 - CSS3
 - JavaScript
 - SCSS
+- JQuary
 - PHP (for backend functionality)
 
 ## 📸 Screenshots
@@ -27,11 +28,11 @@ Check out my live portfolio here:
 [(https://soumyadas2006.github.io/Soumya-Das-Portfolio/)](https://soumya-das-2006.github.io/Soumya-Das-Portfolio/)
 
 ## 📬 Contact Me
-Reach out via email: [your-email@example.com](mailto:your-email@example.com)  
+Reach out via email: [your-email@example.com](mailto:soumyadastopper@gmail.com)  
 Or use the contact form on my website.
 
 ## 📄 Resume
-Download my latest resume: [Resume.pdf](./docs/Resume.pdf)
+Download my latest resume: [Resume.pdf](https://drive.google.com/file/d/18TxPn_o6D7qqq74hZ0ZCfCNTDKM9FVQ8/view?usp=sharing)
 
 ## 🛠️ Installation
 Clone the repository:
