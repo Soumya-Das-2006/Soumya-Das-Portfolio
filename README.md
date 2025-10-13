@@ -31,7 +31,7 @@ Reach out via email: [soumyadastopper2006@gmail.com](mailto:soumyadastopper2006@
 Or use the contact form on my website.
 
 ## 📄 Resume
-Download my latest resume: [Resume.pdf](https://drive.google.com/file/d/18TxPn_o6D7qqq74hZ0ZCfCNTDKM9FVQ8/view?usp=sharing)
+Download my latest resume: [Resume.pdf](https://drive.google.com/file/d/1s3qJs00oh8zpRKtLeiwZxF3h7p4lFXIJ/view?usp=sharing)
 
 ## 🛠️ Installation
 Clone the repository:
