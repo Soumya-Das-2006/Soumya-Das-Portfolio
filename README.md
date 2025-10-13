@@ -15,11 +15,10 @@ Welcome to my personal portfolio! I'm **Soumya Das**, a passionate web developer
 - JavaScript
 - SCSS
 - JQuary
-- PHP (for backend functionality)
 
 ## 📸 Screenshots
 
-<img width="919" height="1078" alt="image" src="https://github.com/user-attachments/assets/31f2e629-0f7b-4d3b-9e7f-6a790bb20192" />
+<img width="863" height="1126" alt="image" src="https://github.com/user-attachments/assets/822a17ed-8aab-4663-b49b-914c4d87c7ec" />
 
 *Homepage showcasing my skills and projects*
 
