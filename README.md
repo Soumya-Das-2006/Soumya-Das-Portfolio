@@ -28,7 +28,7 @@ Check out my live portfolio here:
 [(https://soumyadas2006.github.io/Soumya-Das-Portfolio/)](https://soumya-das-2006.github.io/Soumya-Das-Portfolio/)
 
 ## 📬 Contact Me
-Reach out via email: [your-email@example.com](mailto:soumyadastopper@gmail.com)  
+Reach out via email: [soumyadastopper@gmail.com](mailto:soumyadastopper@gmail.com)  
 Or use the contact form on my website.
 
 ## 📄 Resume
