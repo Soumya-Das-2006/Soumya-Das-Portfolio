@@ -1,5 +1,5 @@
 <center><h1>Soumya Das</h1></center>
-# Soumya Das - Personal Portfolio
+
 
 Welcome to my personal portfolio! I'm **Soumya Das**, a passionate web developer building responsive and user-friendly websites.
 
