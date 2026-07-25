@@ -46,6 +46,21 @@
         portfolioIsotope.isotope({filter: $(this).data('filter')});
     });
 
+    // Re-layout once each portfolio image finishes loading, since Isotope
+    // measures row heights before late-loading images resize their cards —
+    // without this, later sections overlap the shorter columns.
+    $('.portfolio-container img').each(function () {
+        if (this.complete) {
+            return;
+        }
+        $(this).on('load error', function () {
+            portfolioIsotope.isotope('layout');
+        });
+    });
+    $(window).on('load', function () {
+        portfolioIsotope.isotope('layout');
+    });
+
 
     // Testimonials carousel
     $(".testimonial-carousel").owlCarousel({
