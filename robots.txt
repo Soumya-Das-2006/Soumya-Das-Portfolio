@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soumya-das-2006.github.io/Soumya-Das-Portfolio/sitemap.xml

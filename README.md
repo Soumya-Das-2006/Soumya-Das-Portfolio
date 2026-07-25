@@ -1,37 +1,33 @@
 <center><h1>Soumya Das</h1></center>
 
-
-Welcome to my personal portfolio! I'm **Soumya Das**, a passionate web developer building responsive and user-friendly websites.
+Welcome to my personal portfolio! I'm **Soumya Das**, an AI Automation Developer & Full Stack Developer building end-to-end automated workflows and production web applications.
 
 ## 🚀 Features
 - **Responsive Design**: Optimized for all devices
-- **Modern Tech Stack**: HTML, CSS, JavaScript, SCSS
-- **Interactive UI**: Smooth animations and user-friendly interface
+- **Modern Stack**: HTML5, CSS3, JavaScript, Bootstrap 4
+- **Interactive UI**: Smooth animations, filterable project grid, lightbox previews
 - **Contact Form**: Easily reach out via the integrated form
 
 ## 🔧 Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- SCSS
-- JQuary
+- HTML5, CSS3, JavaScript
+- Bootstrap 4
+- jQuery, Owl Carousel, Isotope, Lightbox
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-<img width="863" height="1126" alt="image" src="https://github.com/user-attachments/assets/822a17ed-8aab-4663-b49b-914c4d87c7ec" />
+<img width="800" alt="Portfolio homepage" src="img/homepage-shot.jpg" />
 
 *Homepage showcasing my skills and projects*
 
 ## 🌐 Live Demo
-Check out my live portfolio here:  
-[(https://soumyadas2006.github.io/Soumya-Das-Portfolio/)](https://soumya-das-2006.github.io/Soumya-Das-Portfolio/)
+Check out my live portfolio here: [soumya-das-2006.github.io/Soumya-Das-Portfolio](https://soumya-das-2006.github.io/Soumya-Das-Portfolio/)
 
 ## 📬 Contact Me
-Reach out via email: [soumyadastopper2006@gmail.com](mailto:soumyadastopper2006@gmail.com)  
+Reach out via email: [soumyadastopper2006@gmail.com](mailto:soumyadastopper2006@gmail.com)
 Or use the contact form on my website.
 
 ## 📄 Resume
-Download my latest resume: [Resume.pdf](https://drive.google.com/file/d/1s3qJs00oh8zpRKtLeiwZxF3h7p4lFXIJ/view?usp=sharing)
+Download my latest resume: [Resume.pdf](https://drive.google.com/file/d/1MxyEw3xeFbMi2lMGW0iFk6D2tM7TdgfX/view?usp=sharing)
 
 ## 🛠️ Installation
 Clone the repository:
@@ -41,5 +37,8 @@ git clone https://github.com/Soumya-Das-2006/Soumya-Das-Portfolio.git
 cd Soumya-Das-Portfolio
 ```
 
-## 🌐 Live Demo
-Check out my live portfolio here: [Soumya Das Portfolio](https://soumya-das-2006.github.io/Soumya-Das-Portfolio/)
+Then open `index.html` in your browser, or serve it locally:
+
+```bash
+npx serve .
+```
